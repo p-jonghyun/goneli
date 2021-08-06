@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/obsidiandynamics/goneli"
+	. "github.com/p-jonghyun/goneli"
 	"github.com/obsidiandynamics/libstdgo/check"
 	"github.com/obsidiandynamics/libstdgo/diags"
 	"github.com/obsidiandynamics/libstdgo/scribe"
