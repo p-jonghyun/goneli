@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/obsidiandynamics/goneli"
+	"github.com/p-jonghyun/goneli"
 )
 
 func main() {
